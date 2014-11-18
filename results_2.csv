@@ -1,0 +1,63 @@
+code,message,source,line,path
+FL0001,'Stacked' imported but unused,pyflakes,19,stacked/__init__.py
+E265,block comment should start with '# ',pep8,126,doc/conf.py
+E265,block comment should start with '# ',pep8,122,doc/conf.py
+E265,block comment should start with '# ',pep8,119,doc/conf.py
+E265,block comment should start with '# ',pep8,241,doc/conf.py
+E265,block comment should start with '# ',pep8,107,doc/conf.py
+E265,block comment should start with '# ',pep8,101,doc/conf.py
+E265,block comment should start with '# ',pep8,228,doc/conf.py
+E265,block comment should start with '# ',pep8,97,doc/conf.py
+E265,block comment should start with '# ',pep8,222,doc/conf.py
+E265,block comment should start with '# ',pep8,93,doc/conf.py
+E265,block comment should start with '# ',pep8,219,doc/conf.py
+E265,block comment should start with '# ',pep8,90,doc/conf.py
+C0330,"Wrong hanging indentation.
+  ('index', 'makeenv', u'makeenv Documentation',
+  ^ |",pylint,250,doc/conf.py
+E265,block comment should start with '# ',pep8,216,doc/conf.py
+C0330,"Wrong hanging indentation.
+# Additional stuff for the LaTeX preamble.
+^   |",pylint,199,doc/conf.py
+E265,block comment should start with '# ',pep8,212,doc/conf.py
+E265,block comment should start with '# ',pep8,83,doc/conf.py
+E265,block comment should start with '# ',pep8,81,doc/conf.py
+C0330,"Wrong hanging indentation.
+  ('index', 'makeenv.tex', u'makeenv Documentation',
+  ^ |",pylint,206,doc/conf.py
+E265,block comment should start with '# ',pep8,77,doc/conf.py
+E265,block comment should start with '# ',pep8,200,doc/conf.py
+E265,block comment should start with '# ',pep8,225,doc/conf.py
+E265,block comment should start with '# ',pep8,197,doc/conf.py
+C0330,"Wrong hanging indentation.
+# The font size ('10pt', '11pt' or '12pt').
+^   |",pylint,196,doc/conf.py
+E265,block comment should start with '# ',pep8,194,doc/conf.py
+C0330,"Wrong hanging indentation.
+# The paper size ('letterpaper' or 'a4paper').
+^   |",pylint,193,doc/conf.py
+W0622,Redefining built-in 'copyright',pylint,63,doc/conf.py
+E265,block comment should start with '# ',pep8,56,doc/conf.py
+E265,block comment should start with '# ',pep8,181,doc/conf.py
+E265,block comment should start with '# ',pep8,50,doc/conf.py
+E265,block comment should start with '# ',pep8,176,doc/conf.py
+E501,line too long (202 > 159 characters),pep8,47,doc/conf.py
+E265,block comment should start with '# ',pep8,173,doc/conf.py
+E265,block comment should start with '# ',pep8,43,doc/conf.py
+E265,block comment should start with '# ',pep8,170,doc/conf.py
+E265,block comment should start with '# ',pep8,167,doc/conf.py
+E265,block comment should start with '# ',pep8,38,doc/conf.py
+E265,block comment should start with '# ',pep8,164,doc/conf.py
+E265,block comment should start with '# ',pep8,161,doc/conf.py
+E265,block comment should start with '# ',pep8,158,doc/conf.py
+E265,block comment should start with '# ',pep8,184,doc/conf.py
+E265,block comment should start with '# ',pep8,154,doc/conf.py
+E265,block comment should start with '# ',pep8,151,doc/conf.py
+E265,block comment should start with '# ',pep8,147,doc/conf.py
+E265,block comment should start with '# ',pep8,143,doc/conf.py
+E265,block comment should start with '# ',pep8,138,doc/conf.py
+E265,block comment should start with '# ',pep8,262,doc/conf.py
+E265,block comment should start with '# ',pep8,133,doc/conf.py
+E265,block comment should start with '# ',pep8,259,doc/conf.py
+E265,block comment should start with '# ',pep8,129,doc/conf.py
+E265,block comment should start with '# ',pep8,256,doc/conf.py
